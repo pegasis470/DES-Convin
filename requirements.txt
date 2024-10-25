@@ -1,0 +1,8 @@
+fastapi
+sqlalchemy
+pydantic
+alembic
+psycopg2-binary  # or sqlite3
+uvicorn
+passlib  # for password hashing if authentication is implemented
+
